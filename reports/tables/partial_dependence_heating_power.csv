@@ -1,0 +1,201 @@
+feature,label,x,y
+Battery Current [A],Battery current (A),-94.12603000000001,2194.579348670913
+Battery Current [A],Battery current (A),-90.13890230769232,2194.579348670913
+Battery Current [A],Battery current (A),-86.15177461538462,2194.579348670913
+Battery Current [A],Battery current (A),-82.16464692307693,2194.524565838046
+Battery Current [A],Battery current (A),-78.17751923076924,2194.4860716714616
+Battery Current [A],Battery current (A),-74.19039153846154,2194.3254005254103
+Battery Current [A],Battery current (A),-70.20326384615385,2184.923525992073
+Battery Current [A],Battery current (A),-66.21613615384616,2183.902821899093
+Battery Current [A],Battery current (A),-62.22900846153847,2171.2931467508565
+Battery Current [A],Battery current (A),-58.241880769230775,2171.143125099837
+Battery Current [A],Battery current (A),-54.25475307692308,2171.143125099837
+Battery Current [A],Battery current (A),-50.267625384615386,2170.036569234996
+Battery Current [A],Battery current (A),-46.28049769230769,2170.036569234996
+Battery Current [A],Battery current (A),-42.293369999999996,2173.2101185532892
+Battery Current [A],Battery current (A),-38.30624230769231,2176.3954439137883
+Battery Current [A],Battery current (A),-34.31911461538461,2186.091826704072
+Battery Current [A],Battery current (A),-30.33198692307692,2184.5848032064873
+Battery Current [A],Battery current (A),-26.34485923076923,2149.1358318106168
+Battery Current [A],Battery current (A),-22.357731538461536,2121.4040544084937
+Battery Current [A],Battery current (A),-18.37060384615384,2053.6242283095226
+Battery Current [A],Battery current (A),-14.383476153846146,1895.4807304782678
+Battery Current [A],Battery current (A),-10.396348461538452,1577.5618917106067
+Battery Current [A],Battery current (A),-6.409220769230757,1317.2719211600838
+Battery Current [A],Battery current (A),-2.422093076923062,1012.7390026135389
+Battery Current [A],Battery current (A),1.5650346153846328,814.7424243693426
+Battery Current [A],Battery current (A),5.552162307692328,798.2665890623293
+Battery Current [A],Battery current (A),9.539290000000022,792.6244334107032
+Battery Current [A],Battery current (A),13.526417692307703,791.1509171104213
+Battery Current [A],Battery current (A),17.513545384615398,790.1477701336889
+Battery Current [A],Battery current (A),21.500673076923093,789.9162988905737
+Battery Current [A],Battery current (A),25.487800769230788,789.6669506228262
+Battery Current [A],Battery current (A),29.474928461538482,789.6669506228262
+Battery Current [A],Battery current (A),33.46205615384618,789.6669506228262
+Battery Current [A],Battery current (A),37.44918384615386,789.6466081009795
+Battery Current [A],Battery current (A),41.43631153846155,789.6466081009795
+Battery Current [A],Battery current (A),45.42343923076925,789.6466081009795
+Battery Current [A],Battery current (A),49.41056692307694,789.6466081009795
+Battery Current [A],Battery current (A),53.39769461538464,789.6466081009795
+Battery Current [A],Battery current (A),57.38482230769233,789.6466081009795
+Battery Current [A],Battery current (A),61.37195000000003,789.672235654115
+Cabin Temperature Sensor [°C],Cabin temperature (°C),11.34,3525.296646128431
+Cabin Temperature Sensor [°C],Cabin temperature (°C),11.810066666666666,3532.7010526324766
+Cabin Temperature Sensor [°C],Cabin temperature (°C),12.280133333333334,3504.7877914601295
+Cabin Temperature Sensor [°C],Cabin temperature (°C),12.7502,3315.697965519244
+Cabin Temperature Sensor [°C],Cabin temperature (°C),13.220266666666667,3144.506250554972
+Cabin Temperature Sensor [°C],Cabin temperature (°C),13.690333333333333,2996.642668702794
+Cabin Temperature Sensor [°C],Cabin temperature (°C),14.1604,3015.1856416163214
+Cabin Temperature Sensor [°C],Cabin temperature (°C),14.630466666666667,2939.796882693892
+Cabin Temperature Sensor [°C],Cabin temperature (°C),15.100533333333333,2944.430961088255
+Cabin Temperature Sensor [°C],Cabin temperature (°C),15.570599999999999,2871.70480128171
+Cabin Temperature Sensor [°C],Cabin temperature (°C),16.040666666666667,2569.894916048165
+Cabin Temperature Sensor [°C],Cabin temperature (°C),16.510733333333334,2553.6206268993797
+Cabin Temperature Sensor [°C],Cabin temperature (°C),16.9808,2556.0840525492604
+Cabin Temperature Sensor [°C],Cabin temperature (°C),17.450866666666666,2074.5599137160025
+Cabin Temperature Sensor [°C],Cabin temperature (°C),17.92093333333333,1986.8352621362358
+Cabin Temperature Sensor [°C],Cabin temperature (°C),18.391,1725.526576692927
+Cabin Temperature Sensor [°C],Cabin temperature (°C),18.861066666666666,1697.5304996574403
+Cabin Temperature Sensor [°C],Cabin temperature (°C),19.331133333333334,1569.5967665487713
+Cabin Temperature Sensor [°C],Cabin temperature (°C),19.8012,1502.5832393781097
+Cabin Temperature Sensor [°C],Cabin temperature (°C),20.271266666666666,1425.7335277539405
+Cabin Temperature Sensor [°C],Cabin temperature (°C),20.741333333333333,1329.9872263885625
+Cabin Temperature Sensor [°C],Cabin temperature (°C),21.211399999999998,1249.6602099334652
+Cabin Temperature Sensor [°C],Cabin temperature (°C),21.681466666666665,1169.1696888597735
+Cabin Temperature Sensor [°C],Cabin temperature (°C),22.151533333333333,1152.2779058548533
+Cabin Temperature Sensor [°C],Cabin temperature (°C),22.6216,1131.492113156569
+Cabin Temperature Sensor [°C],Cabin temperature (°C),23.091666666666665,1106.4142138721845
+Cabin Temperature Sensor [°C],Cabin temperature (°C),23.561733333333333,1056.463573388154
+Cabin Temperature Sensor [°C],Cabin temperature (°C),24.031799999999997,1033.5362084574106
+Cabin Temperature Sensor [°C],Cabin temperature (°C),24.501866666666665,1033.8181332288784
+Cabin Temperature Sensor [°C],Cabin temperature (°C),24.971933333333332,1027.860981043128
+Cabin Temperature Sensor [°C],Cabin temperature (°C),25.442,1031.4426242023828
+Cabin Temperature Sensor [°C],Cabin temperature (°C),25.912066666666668,1045.193578146321
+Cabin Temperature Sensor [°C],Cabin temperature (°C),26.382133333333332,1044.0206493822084
+Cabin Temperature Sensor [°C],Cabin temperature (°C),26.852199999999996,1029.9657097228467
+Cabin Temperature Sensor [°C],Cabin temperature (°C),27.322266666666664,1102.196905203512
+Cabin Temperature Sensor [°C],Cabin temperature (°C),27.792333333333332,984.8617965490598
+Cabin Temperature Sensor [°C],Cabin temperature (°C),28.2624,978.4819361231482
+Cabin Temperature Sensor [°C],Cabin temperature (°C),28.732466666666664,944.3006740801263
+Cabin Temperature Sensor [°C],Cabin temperature (°C),29.20253333333333,969.0720253249252
+Cabin Temperature Sensor [°C],Cabin temperature (°C),29.6726,998.1126048057536
+Motor Torque [Nm],Motor torque (Nm),-44.187850000000005,2155.174090658855
+Motor Torque [Nm],Motor torque (Nm),-41.200588461538466,2156.891669491341
+Motor Torque [Nm],Motor torque (Nm),-38.21332692307693,2156.7205788988786
+Motor Torque [Nm],Motor torque (Nm),-35.22606538461539,2155.551880010027
+Motor Torque [Nm],Motor torque (Nm),-32.23880384615385,2155.264888116784
+Motor Torque [Nm],Motor torque (Nm),-29.25154230769231,2155.264888116784
+Motor Torque [Nm],Motor torque (Nm),-26.26428076923077,2145.443954255332
+Motor Torque [Nm],Motor torque (Nm),-23.27701923076923,2145.443954255332
+Motor Torque [Nm],Motor torque (Nm),-20.289757692307692,2145.234741057742
+Motor Torque [Nm],Motor torque (Nm),-17.302496153846153,2143.9275031337443
+Motor Torque [Nm],Motor torque (Nm),-14.315234615384615,2104.353007859125
+Motor Torque [Nm],Motor torque (Nm),-11.327973076923072,2097.8333218202642
+Motor Torque [Nm],Motor torque (Nm),-8.340711538461534,2085.359073051456
+Motor Torque [Nm],Motor torque (Nm),-5.353449999999995,2040.4633688445717
+Motor Torque [Nm],Motor torque (Nm),-2.3661884615384565,2020.5301343291953
+Motor Torque [Nm],Motor torque (Nm),0.6210730769230821,1487.126364919693
+Motor Torque [Nm],Motor torque (Nm),3.6083346153846207,1356.6762819500118
+Motor Torque [Nm],Motor torque (Nm),6.595596153846159,1302.353571936149
+Motor Torque [Nm],Motor torque (Nm),9.582857692307698,1292.2204151371784
+Motor Torque [Nm],Motor torque (Nm),12.570119230769237,1277.4436864092995
+Motor Torque [Nm],Motor torque (Nm),15.557380769230775,1248.6598310883367
+Motor Torque [Nm],Motor torque (Nm),18.544642307692314,1246.0923059019078
+Motor Torque [Nm],Motor torque (Nm),21.53190384615386,1235.389903275651
+Motor Torque [Nm],Motor torque (Nm),24.5191653846154,1225.4173578867208
+Motor Torque [Nm],Motor torque (Nm),27.506426923076937,1220.9696557022753
+Motor Torque [Nm],Motor torque (Nm),30.493688461538476,1211.016748410438
+Motor Torque [Nm],Motor torque (Nm),33.480950000000014,1208.186430134226
+Motor Torque [Nm],Motor torque (Nm),36.46821153846155,1204.3058537753786
+Motor Torque [Nm],Motor torque (Nm),39.45547307692309,1200.928605745645
+Motor Torque [Nm],Motor torque (Nm),42.44273461538463,1200.928605745645
+Motor Torque [Nm],Motor torque (Nm),45.42999615384617,1200.702417296689
+Motor Torque [Nm],Motor torque (Nm),48.41725769230771,1200.702417296689
+Motor Torque [Nm],Motor torque (Nm),51.404519230769246,1194.307953058243
+Motor Torque [Nm],Motor torque (Nm),54.391780769230785,1194.307953058243
+Motor Torque [Nm],Motor torque (Nm),57.37904230769232,1194.1881480473799
+Motor Torque [Nm],Motor torque (Nm),60.36630384615386,1194.2738959729513
+Motor Torque [Nm],Motor torque (Nm),63.3535653846154,1192.7742808602115
+Motor Torque [Nm],Motor torque (Nm),66.34082692307695,1192.7742808602115
+Motor Torque [Nm],Motor torque (Nm),69.32808846153847,1192.875059747752
+Motor Torque [Nm],Motor torque (Nm),72.31535000000001,1189.2107305679854
+Ambient Temperature [°C],Ambient temperature (°C),1.5,1824.6696920189581
+Ambient Temperature [°C],Ambient temperature (°C),2.141025641025641,1708.288543356439
+Ambient Temperature [°C],Ambient temperature (°C),2.782051282051282,1703.404613153455
+Ambient Temperature [°C],Ambient temperature (°C),3.4230769230769234,1650.1226701760065
+Ambient Temperature [°C],Ambient temperature (°C),4.064102564102564,1592.9463975263404
+Ambient Temperature [°C],Ambient temperature (°C),4.705128205128205,1538.784294605172
+Ambient Temperature [°C],Ambient temperature (°C),5.346153846153847,1450.5160789171277
+Ambient Temperature [°C],Ambient temperature (°C),5.987179487179487,1426.348990724067
+Ambient Temperature [°C],Ambient temperature (°C),6.628205128205129,1406.1211481317275
+Ambient Temperature [°C],Ambient temperature (°C),7.26923076923077,1341.080389985541
+Ambient Temperature [°C],Ambient temperature (°C),7.910256410256411,1308.393132180273
+Ambient Temperature [°C],Ambient temperature (°C),8.551282051282051,1258.186060701061
+Ambient Temperature [°C],Ambient temperature (°C),9.192307692307693,1257.8507750978033
+Ambient Temperature [°C],Ambient temperature (°C),9.833333333333334,1248.234138660529
+Ambient Temperature [°C],Ambient temperature (°C),10.474358974358974,1246.5720630107057
+Ambient Temperature [°C],Ambient temperature (°C),11.115384615384617,1245.085792178288
+Ambient Temperature [°C],Ambient temperature (°C),11.756410256410257,1240.4121422866233
+Ambient Temperature [°C],Ambient temperature (°C),12.397435897435898,1240.4121422866233
+Ambient Temperature [°C],Ambient temperature (°C),13.03846153846154,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),13.67948717948718,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),14.320512820512821,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),14.961538461538463,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),15.602564102564104,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),16.243589743589745,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),16.884615384615387,1219.8749096416575
+Ambient Temperature [°C],Ambient temperature (°C),17.525641025641026,1167.6385422790306
+Ambient Temperature [°C],Ambient temperature (°C),18.166666666666668,1208.801103145854
+Ambient Temperature [°C],Ambient temperature (°C),18.80769230769231,1208.290991630408
+Ambient Temperature [°C],Ambient temperature (°C),19.44871794871795,1228.4782391458223
+Ambient Temperature [°C],Ambient temperature (°C),20.08974358974359,1144.557184449411
+Ambient Temperature [°C],Ambient temperature (°C),20.730769230769234,1146.2620220701533
+Ambient Temperature [°C],Ambient temperature (°C),21.371794871794872,1307.653262846978
+Ambient Temperature [°C],Ambient temperature (°C),22.012820512820515,1320.1824669434664
+Ambient Temperature [°C],Ambient temperature (°C),22.653846153846157,1320.0966091144803
+Ambient Temperature [°C],Ambient temperature (°C),23.294871794871796,1320.0966091144803
+Ambient Temperature [°C],Ambient temperature (°C),23.935897435897438,1320.0966091144803
+Ambient Temperature [°C],Ambient temperature (°C),24.57692307692308,1320.0966091144803
+Ambient Temperature [°C],Ambient temperature (°C),25.21794871794872,1320.0966091144803
+Ambient Temperature [°C],Ambient temperature (°C),25.85897435897436,1320.0966091144803
+Ambient Temperature [°C],Ambient temperature (°C),26.5,1320.0966091144803
+time_since_start_s,Time since trip start (s),77.0,1684.1375191861653
+time_since_start_s,Time since trip start (s),152.52794871794873,1281.9429250903897
+time_since_start_s,Time since trip start (s),228.05589743589744,1235.914485039637
+time_since_start_s,Time since trip start (s),303.58384615384614,1219.3424802808076
+time_since_start_s,Time since trip start (s),379.11179487179487,1269.3013336489971
+time_since_start_s,Time since trip start (s),454.6397435897436,1199.137740645128
+time_since_start_s,Time since trip start (s),530.1676923076923,1216.3890490209951
+time_since_start_s,Time since trip start (s),605.6956410256411,1224.1874486187703
+time_since_start_s,Time since trip start (s),681.2235897435897,1260.16085025335
+time_since_start_s,Time since trip start (s),756.7515384615384,1234.9129309648972
+time_since_start_s,Time since trip start (s),832.2794871794872,1235.1819673655548
+time_since_start_s,Time since trip start (s),907.8074358974359,1233.7326679016746
+time_since_start_s,Time since trip start (s),983.3353846153846,1230.9707270090294
+time_since_start_s,Time since trip start (s),1058.8633333333332,1231.5223664300868
+time_since_start_s,Time since trip start (s),1134.3912820512821,1229.7955273058014
+time_since_start_s,Time since trip start (s),1209.9192307692308,1239.9639165018518
+time_since_start_s,Time since trip start (s),1285.4471794871795,1237.9357111694924
+time_since_start_s,Time since trip start (s),1360.9751282051282,1246.0673527607212
+time_since_start_s,Time since trip start (s),1436.5030769230768,1243.082288895507
+time_since_start_s,Time since trip start (s),1512.0310256410257,1243.572183282157
+time_since_start_s,Time since trip start (s),1587.5589743589744,1249.2237332091336
+time_since_start_s,Time since trip start (s),1663.086923076923,1260.555591051609
+time_since_start_s,Time since trip start (s),1738.6148717948718,1260.5893816533205
+time_since_start_s,Time since trip start (s),1814.1428205128204,1257.8947459734793
+time_since_start_s,Time since trip start (s),1889.670769230769,1235.9783419610321
+time_since_start_s,Time since trip start (s),1965.198717948718,1237.3592806524457
+time_since_start_s,Time since trip start (s),2040.7266666666667,1243.811371165169
+time_since_start_s,Time since trip start (s),2116.254615384615,1242.1010918841996
+time_since_start_s,Time since trip start (s),2191.7825641025643,1242.94409380502
+time_since_start_s,Time since trip start (s),2267.310512820513,1248.3144112938512
+time_since_start_s,Time since trip start (s),2342.8384615384616,1235.238149517124
+time_since_start_s,Time since trip start (s),2418.3664102564103,1233.140501985046
+time_since_start_s,Time since trip start (s),2493.894358974359,1232.5295757127792
+time_since_start_s,Time since trip start (s),2569.4223076923076,1342.2607108460563
+time_since_start_s,Time since trip start (s),2644.9502564102563,1343.4176878876124
+time_since_start_s,Time since trip start (s),2720.478205128205,1341.9551803168713
+time_since_start_s,Time since trip start (s),2796.0061538461537,1318.858617750071
+time_since_start_s,Time since trip start (s),2871.5341025641023,1296.8857034938635
+time_since_start_s,Time since trip start (s),2947.0620512820515,1296.8857034938635
+time_since_start_s,Time since trip start (s),3022.59,1331.1497384030415

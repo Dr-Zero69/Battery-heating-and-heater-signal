@@ -1,0 +1,23 @@
+# Raw and processed data are not versioned (download instructions in README.md)
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.m
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

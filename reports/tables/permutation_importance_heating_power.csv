@@ -1,0 +1,16 @@
+feature,label,importance_mean,importance_sd,scoring
+Battery Current [A],Battery current (A),0.6804825507235797,0.3391950093975229,r2
+Cabin Temperature Sensor [°C],Cabin temperature (°C),0.6039067150226706,0.13563221707577394,r2
+Motor Torque [Nm],Motor torque (Nm),0.29233691863416017,0.2523708087260563,r2
+Ambient Temperature [°C],Ambient temperature (°C),0.13828557330181943,0.09870868309241604,r2
+time_since_start_s,Time since trip start (s),0.11674572976334652,0.036289515574428256,r2
+Battery Temperature [°C],Battery temperature (°C),0.1025951307096165,0.12082411644305738,r2
+Velocity [km/h],Velocity (km/h),0.03849923164300733,0.03099776623858799,r2
+AirCon Power [kW],Air-conditioning power (kW),0.01928940359592849,0.027629524409161912,r2
+SoC [%],State of charge (%),0.017187735849119944,0.02029646573559745,r2
+Battery Voltage [V],Battery voltage (V),0.008338859565586717,0.014972490426294255,r2
+Throttle [%],Throttle (%),0.007587887260150014,0.002546395487784813,r2
+Elevation [m],Elevation (m),0.006004142255268215,0.011009285778274125,r2
+Longitudinal Acceleration [m/s^2],Longitudinal acceleration (m/s²),0.003243035852043627,0.006104313692237102,r2
+target_cabin_temp_c,Target cabin temperature (°C),0.0029057203976693867,0.004330436939154743,r2
+Regenerative Braking Signal,Regenerative braking (0/1),-1.0532312646249764e-05,1.5457473620940892e-05,r2

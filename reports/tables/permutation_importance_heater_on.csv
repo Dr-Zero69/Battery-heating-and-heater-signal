@@ -1,0 +1,16 @@
+feature,label,importance_mean,importance_sd,scoring
+Ambient Temperature [°C],Ambient temperature (°C),0.15561010888550664,0.051571910041605225,roc_auc
+Battery Current [A],Battery current (A),0.04800485331283988,0.04050613921630998,roc_auc
+Battery Temperature [°C],Battery temperature (°C),0.0171435602634549,0.02229400030845192,roc_auc
+Cabin Temperature Sensor [°C],Cabin temperature (°C),0.006280614897268269,0.01347330398885053,roc_auc
+Elevation [m],Elevation (m),0.0030576182614250325,0.008012487417092472,roc_auc
+target_cabin_temp_c,Target cabin temperature (°C),0.0022124829506180933,0.004930456478519882,roc_auc
+Motor Torque [Nm],Motor torque (Nm),0.002206399930433021,0.003117978820864302,roc_auc
+time_since_start_s,Time since trip start (s),0.0005128756129761838,0.010506414531846281,roc_auc
+Throttle [%],Throttle (%),0.0002103534524257533,0.001276048044467199,roc_auc
+Regenerative Braking Signal,Regenerative braking (0/1),1.310521751065608e-06,1.831154382731668e-05,roc_auc
+Longitudinal Acceleration [m/s^2],Longitudinal acceleration (m/s²),-5.313545418225815e-05,0.0008837658264987005,roc_auc
+AirCon Power [kW],Air-conditioning power (kW),-0.0001152943042049426,0.0008036090269578841,roc_auc
+Velocity [km/h],Velocity (km/h),-0.0005775024415530707,0.004696021576945294,roc_auc
+SoC [%],State of charge (%),-0.001301254259266522,0.002173165771287323,roc_auc
+Battery Voltage [V],Battery voltage (V),-0.0015001560586087592,0.004152426096361425,roc_auc

@@ -1,0 +1,201 @@
+feature,label,x,y
+Ambient Temperature [°C],Ambient temperature (°C),1.5,0.9415700938508764
+Ambient Temperature [°C],Ambient temperature (°C),2.141025641025641,0.9415700938508764
+Ambient Temperature [°C],Ambient temperature (°C),2.782051282051282,0.9415700938508764
+Ambient Temperature [°C],Ambient temperature (°C),3.4230769230769234,0.9415700938508764
+Ambient Temperature [°C],Ambient temperature (°C),4.064102564102564,0.9328641760180333
+Ambient Temperature [°C],Ambient temperature (°C),4.705128205128205,0.937010829570525
+Ambient Temperature [°C],Ambient temperature (°C),5.346153846153847,0.9340610107181092
+Ambient Temperature [°C],Ambient temperature (°C),5.987179487179487,0.9340561624245429
+Ambient Temperature [°C],Ambient temperature (°C),6.628205128205129,0.9049977469091797
+Ambient Temperature [°C],Ambient temperature (°C),7.26923076923077,0.904534734124528
+Ambient Temperature [°C],Ambient temperature (°C),7.910256410256411,0.9042368674194178
+Ambient Temperature [°C],Ambient temperature (°C),8.551282051282051,0.878137113359988
+Ambient Temperature [°C],Ambient temperature (°C),9.192307692307693,0.8770830405614463
+Ambient Temperature [°C],Ambient temperature (°C),9.833333333333334,0.7755226919142704
+Ambient Temperature [°C],Ambient temperature (°C),10.474358974358974,0.771696148827266
+Ambient Temperature [°C],Ambient temperature (°C),11.115384615384617,0.7708976836674127
+Ambient Temperature [°C],Ambient temperature (°C),11.756410256410257,0.7708189923099849
+Ambient Temperature [°C],Ambient temperature (°C),12.397435897435898,0.7708189923099849
+Ambient Temperature [°C],Ambient temperature (°C),13.03846153846154,0.767232020233837
+Ambient Temperature [°C],Ambient temperature (°C),13.67948717948718,0.7671284670181424
+Ambient Temperature [°C],Ambient temperature (°C),14.320512820512821,0.7671284670181424
+Ambient Temperature [°C],Ambient temperature (°C),14.961538461538463,0.7671284670181424
+Ambient Temperature [°C],Ambient temperature (°C),15.602564102564104,0.7671284670181424
+Ambient Temperature [°C],Ambient temperature (°C),16.243589743589745,0.7671284670181424
+Ambient Temperature [°C],Ambient temperature (°C),16.884615384615387,0.7671284670181424
+Ambient Temperature [°C],Ambient temperature (°C),17.525641025641026,0.7578299717971073
+Ambient Temperature [°C],Ambient temperature (°C),18.166666666666668,0.759822869270393
+Ambient Temperature [°C],Ambient temperature (°C),18.80769230769231,0.7587134718130409
+Ambient Temperature [°C],Ambient temperature (°C),19.44871794871795,0.747789103455168
+Ambient Temperature [°C],Ambient temperature (°C),20.08974358974359,0.7407539059067753
+Ambient Temperature [°C],Ambient temperature (°C),20.730769230769234,0.5403594477577454
+Ambient Temperature [°C],Ambient temperature (°C),21.371794871794872,0.5065688933913389
+Ambient Temperature [°C],Ambient temperature (°C),22.012820512820515,0.15327152969140062
+Ambient Temperature [°C],Ambient temperature (°C),22.653846153846157,0.15327152969140062
+Ambient Temperature [°C],Ambient temperature (°C),23.294871794871796,0.15327152969140062
+Ambient Temperature [°C],Ambient temperature (°C),23.935897435897438,0.15327152969140062
+Ambient Temperature [°C],Ambient temperature (°C),24.57692307692308,0.18736525239751317
+Ambient Temperature [°C],Ambient temperature (°C),25.21794871794872,0.18738285605784757
+Ambient Temperature [°C],Ambient temperature (°C),25.85897435897436,0.0704727300357756
+Ambient Temperature [°C],Ambient temperature (°C),26.5,0.0704727300357756
+Battery Current [A],Battery current (A),-94.12603000000001,0.8097574457649336
+Battery Current [A],Battery current (A),-90.13890230769232,0.8100986568197494
+Battery Current [A],Battery current (A),-86.15177461538462,0.8100986568197494
+Battery Current [A],Battery current (A),-82.16464692307693,0.8100986568197494
+Battery Current [A],Battery current (A),-78.17751923076924,0.8100986568197494
+Battery Current [A],Battery current (A),-74.19039153846154,0.8100986568197494
+Battery Current [A],Battery current (A),-70.20326384615385,0.8101442396618797
+Battery Current [A],Battery current (A),-66.21613615384616,0.8101442396618797
+Battery Current [A],Battery current (A),-62.22900846153847,0.8101442396618797
+Battery Current [A],Battery current (A),-58.241880769230775,0.8101442396618797
+Battery Current [A],Battery current (A),-54.25475307692308,0.809970869604432
+Battery Current [A],Battery current (A),-50.267625384615386,0.8109113883543742
+Battery Current [A],Battery current (A),-46.28049769230769,0.8089547143378082
+Battery Current [A],Battery current (A),-42.293369999999996,0.8085146910634327
+Battery Current [A],Battery current (A),-38.30624230769231,0.8089465007093729
+Battery Current [A],Battery current (A),-34.31911461538461,0.8087894424926526
+Battery Current [A],Battery current (A),-30.33198692307692,0.8072627026417075
+Battery Current [A],Battery current (A),-26.34485923076923,0.8068605094101767
+Battery Current [A],Battery current (A),-22.357731538461536,0.8067587095157954
+Battery Current [A],Battery current (A),-18.37060384615384,0.8064807242088611
+Battery Current [A],Battery current (A),-14.383476153846146,0.805365707489041
+Battery Current [A],Battery current (A),-10.396348461538452,0.8012523870038288
+Battery Current [A],Battery current (A),-6.409220769230757,0.7939899734885351
+Battery Current [A],Battery current (A),-2.422093076923062,0.7632516165342227
+Battery Current [A],Battery current (A),1.5650346153846328,0.6454683252853162
+Battery Current [A],Battery current (A),5.552162307692328,0.6455656021071983
+Battery Current [A],Battery current (A),9.539290000000022,0.6454478068214362
+Battery Current [A],Battery current (A),13.526417692307703,0.6419755372268694
+Battery Current [A],Battery current (A),17.513545384615398,0.6420246398055109
+Battery Current [A],Battery current (A),21.500673076923093,0.6418678838852324
+Battery Current [A],Battery current (A),25.487800769230788,0.6411834477400267
+Battery Current [A],Battery current (A),29.474928461538482,0.6411774288730643
+Battery Current [A],Battery current (A),33.46205615384618,0.6385656636435179
+Battery Current [A],Battery current (A),37.44918384615386,0.638627594103798
+Battery Current [A],Battery current (A),41.43631153846155,0.638627594103798
+Battery Current [A],Battery current (A),45.42343923076925,0.6386277656322303
+Battery Current [A],Battery current (A),49.41056692307694,0.6386277656322303
+Battery Current [A],Battery current (A),53.39769461538464,0.6386277656322303
+Battery Current [A],Battery current (A),57.38482230769233,0.6386246759091709
+Battery Current [A],Battery current (A),61.37195000000003,0.6386246759091709
+Battery Temperature [°C],Battery temperature (°C),3.0,0.8234987342682529
+Battery Temperature [°C],Battery temperature (°C),3.4871794871794872,0.8236379421166222
+Battery Temperature [°C],Battery temperature (°C),3.9743589743589745,0.8236379421166222
+Battery Temperature [°C],Battery temperature (°C),4.461538461538462,0.8245356651508395
+Battery Temperature [°C],Battery temperature (°C),4.948717948717949,0.8245356651508395
+Battery Temperature [°C],Battery temperature (°C),5.435897435897436,0.8245356651508395
+Battery Temperature [°C],Battery temperature (°C),5.923076923076923,0.8245356651508395
+Battery Temperature [°C],Battery temperature (°C),6.410256410256411,0.8338500989935288
+Battery Temperature [°C],Battery temperature (°C),6.897435897435898,0.8338500989935288
+Battery Temperature [°C],Battery temperature (°C),7.384615384615384,0.8338267404253733
+Battery Temperature [°C],Battery temperature (°C),7.871794871794871,0.8338267404253733
+Battery Temperature [°C],Battery temperature (°C),8.358974358974358,0.8339647752994304
+Battery Temperature [°C],Battery temperature (°C),8.846153846153847,0.8339647752994304
+Battery Temperature [°C],Battery temperature (°C),9.333333333333332,0.8316283481186576
+Battery Temperature [°C],Battery temperature (°C),9.820512820512821,0.8316283481186576
+Battery Temperature [°C],Battery temperature (°C),10.307692307692307,0.8314599806647651
+Battery Temperature [°C],Battery temperature (°C),10.794871794871796,0.8314599806647651
+Battery Temperature [°C],Battery temperature (°C),11.282051282051281,0.8365291981469307
+Battery Temperature [°C],Battery temperature (°C),11.769230769230768,0.8365291981469307
+Battery Temperature [°C],Battery temperature (°C),12.256410256410255,0.8366667088806787
+Battery Temperature [°C],Battery temperature (°C),12.743589743589743,0.8366667088806787
+Battery Temperature [°C],Battery temperature (°C),13.23076923076923,0.7816741716564191
+Battery Temperature [°C],Battery temperature (°C),13.717948717948717,0.7816741716564191
+Battery Temperature [°C],Battery temperature (°C),14.205128205128204,0.7815493696671648
+Battery Temperature [°C],Battery temperature (°C),14.692307692307692,0.7815493696671648
+Battery Temperature [°C],Battery temperature (°C),15.179487179487179,0.7814076724629788
+Battery Temperature [°C],Battery temperature (°C),15.666666666666666,0.7814076724629788
+Battery Temperature [°C],Battery temperature (°C),16.153846153846153,0.7635442296930376
+Battery Temperature [°C],Battery temperature (°C),16.641025641025642,0.7635442296930376
+Battery Temperature [°C],Battery temperature (°C),17.128205128205128,0.7612708228860352
+Battery Temperature [°C],Battery temperature (°C),17.615384615384613,0.7612708228860352
+Battery Temperature [°C],Battery temperature (°C),18.102564102564102,0.7497065574329971
+Battery Temperature [°C],Battery temperature (°C),18.58974358974359,0.7497065574329971
+Battery Temperature [°C],Battery temperature (°C),19.076923076923077,0.7510074610690941
+Battery Temperature [°C],Battery temperature (°C),19.564102564102562,0.7510074610690941
+Battery Temperature [°C],Battery temperature (°C),20.05128205128205,0.751408400704901
+Battery Temperature [°C],Battery temperature (°C),20.538461538461537,0.751408400704901
+Battery Temperature [°C],Battery temperature (°C),21.025641025641026,0.7510695555712941
+Battery Temperature [°C],Battery temperature (°C),21.51282051282051,0.7510695555712941
+Battery Temperature [°C],Battery temperature (°C),22.0,0.7510695555712941
+Cabin Temperature Sensor [°C],Cabin temperature (°C),11.34,0.7746021486124511
+Cabin Temperature Sensor [°C],Cabin temperature (°C),11.810066666666666,0.7754292250488425
+Cabin Temperature Sensor [°C],Cabin temperature (°C),12.280133333333334,0.7754292250488425
+Cabin Temperature Sensor [°C],Cabin temperature (°C),12.7502,0.7754292250488425
+Cabin Temperature Sensor [°C],Cabin temperature (°C),13.220266666666667,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),13.690333333333333,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),14.1604,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),14.630466666666667,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),15.100533333333333,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),15.570599999999999,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),16.040666666666667,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),16.510733333333334,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),16.9808,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),17.450866666666666,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),17.92093333333333,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),18.391,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),18.861066666666666,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),19.331133333333334,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),19.8012,0.7755104737398402
+Cabin Temperature Sensor [°C],Cabin temperature (°C),20.271266666666666,0.7689671471468855
+Cabin Temperature Sensor [°C],Cabin temperature (°C),20.741333333333333,0.7736701100660519
+Cabin Temperature Sensor [°C],Cabin temperature (°C),21.211399999999998,0.7734553423462608
+Cabin Temperature Sensor [°C],Cabin temperature (°C),21.681466666666665,0.7729524746480966
+Cabin Temperature Sensor [°C],Cabin temperature (°C),22.151533333333333,0.7738023263265842
+Cabin Temperature Sensor [°C],Cabin temperature (°C),22.6216,0.7736886238017507
+Cabin Temperature Sensor [°C],Cabin temperature (°C),23.091666666666665,0.7737061412839936
+Cabin Temperature Sensor [°C],Cabin temperature (°C),23.561733333333333,0.7740802322314739
+Cabin Temperature Sensor [°C],Cabin temperature (°C),24.031799999999997,0.7752491619972172
+Cabin Temperature Sensor [°C],Cabin temperature (°C),24.501866666666665,0.7757423841147643
+Cabin Temperature Sensor [°C],Cabin temperature (°C),24.971933333333332,0.7758964181394635
+Cabin Temperature Sensor [°C],Cabin temperature (°C),25.442,0.7769182214988483
+Cabin Temperature Sensor [°C],Cabin temperature (°C),25.912066666666668,0.7776410800326266
+Cabin Temperature Sensor [°C],Cabin temperature (°C),26.382133333333332,0.7783258327488024
+Cabin Temperature Sensor [°C],Cabin temperature (°C),26.852199999999996,0.7790100866196397
+Cabin Temperature Sensor [°C],Cabin temperature (°C),27.322266666666664,0.7794117727187461
+Cabin Temperature Sensor [°C],Cabin temperature (°C),27.792333333333332,0.7765670930573604
+Cabin Temperature Sensor [°C],Cabin temperature (°C),28.2624,0.7761181190711027
+Cabin Temperature Sensor [°C],Cabin temperature (°C),28.732466666666664,0.7738562974904452
+Cabin Temperature Sensor [°C],Cabin temperature (°C),29.20253333333333,0.7759653158500479
+Cabin Temperature Sensor [°C],Cabin temperature (°C),29.6726,0.7759539602752293
+Elevation [m],Elevation (m),473.50610000000006,0.7805302669732318
+Elevation [m],Elevation (m),477.1847761538462,0.7814033412460553
+Elevation [m],Elevation (m),480.8634523076924,0.7811171377543918
+Elevation [m],Elevation (m),484.54212846153854,0.7757342572904472
+Elevation [m],Elevation (m),488.2208046153847,0.7704312816861478
+Elevation [m],Elevation (m),491.8994807692308,0.7719587690412821
+Elevation [m],Elevation (m),495.578156923077,0.7718883097531005
+Elevation [m],Elevation (m),499.25683307692316,0.7714326472738501
+Elevation [m],Elevation (m),502.9355092307693,0.7702396476666279
+Elevation [m],Elevation (m),506.61418538461544,0.7649749125725275
+Elevation [m],Elevation (m),510.29286153846164,0.7640672384660165
+Elevation [m],Elevation (m),513.9715376923077,0.7640672384660165
+Elevation [m],Elevation (m),517.650213846154,0.7640672384660165
+Elevation [m],Elevation (m),521.3288900000001,0.7640672384660165
+Elevation [m],Elevation (m),525.0075661538463,0.7640708282437034
+Elevation [m],Elevation (m),528.6862423076924,0.7640628916537067
+Elevation [m],Elevation (m),532.3649184615385,0.7635147248011687
+Elevation [m],Elevation (m),536.0435946153847,0.7640440523916485
+Elevation [m],Elevation (m),539.7222707692308,0.7640275861493242
+Elevation [m],Elevation (m),543.4009469230771,0.7640275861493242
+Elevation [m],Elevation (m),547.0796230769232,0.7640092117502303
+Elevation [m],Elevation (m),550.7582992307694,0.7645425845486848
+Elevation [m],Elevation (m),554.4369753846155,0.7645344258781019
+Elevation [m],Elevation (m),558.1156515384616,0.7642910454469612
+Elevation [m],Elevation (m),561.7943276923078,0.7627615710441404
+Elevation [m],Elevation (m),565.4730038461539,0.7613643413768646
+Elevation [m],Elevation (m),569.15168,0.7603431032787011
+Elevation [m],Elevation (m),572.8303561538462,0.762298513222927
+Elevation [m],Elevation (m),576.5090323076925,0.7579569675482084
+Elevation [m],Elevation (m),580.1877084615386,0.7630540628610085
+Elevation [m],Elevation (m),583.8663846153847,0.7635275282108932
+Elevation [m],Elevation (m),587.5450607692309,0.7635211320642953
+Elevation [m],Elevation (m),591.223736923077,0.7635211320642953
+Elevation [m],Elevation (m),594.9024130769232,0.7635211320642953
+Elevation [m],Elevation (m),598.5810892307693,0.7635211320642953
+Elevation [m],Elevation (m),602.2597653846155,0.7635211320642953
+Elevation [m],Elevation (m),605.9384415384617,0.76322511999703
+Elevation [m],Elevation (m),609.6171176923078,0.76322511999703
+Elevation [m],Elevation (m),613.295793846154,0.76322511999703
+Elevation [m],Elevation (m),616.9744700000001,0.76322511999703
